@@ -25,7 +25,7 @@ p {
 }
 
 .section { 
-  background-color: rgb(66, 135, 245);
+  background-color: rgb(0,0,0);
     border: 2px solid black;
     margin-top: 20px; 
     margin-left: 30px;
